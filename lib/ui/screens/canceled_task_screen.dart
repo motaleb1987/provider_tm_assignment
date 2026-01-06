@@ -1,11 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
-import '../../data/model/task_model.dart';
-import '../../data/services/api_caller.dart';
-import '../../data/utils/urls.dart';
 import '../../providers/task_provider.dart';
-import '../widgets/snack_bar.dart';
 import '../widgets/task_card.dart';
 import '../widgets/task_count_by_status.dart';
 import '../widgets/tm_app_bar.dart';
